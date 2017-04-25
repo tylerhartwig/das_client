@@ -1,5 +1,9 @@
 require "das_client/version"
 
 module DasClient
-  # Your code goes here...
+  class ApiClient
+    def initialize(clientId, clientSecret)
+
+    end
+  end
 end
